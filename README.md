@@ -34,4 +34,17 @@ $ echo 2 > /dev/myled0
 このコマンドを打つとモールス信号でavalancheと表します。  
 これ以外の数字を入力した場合、何も起こりません。
 
+# 動画
+youtubeに動画を上げてあります  
+
+# 参考リンク
+モールス信号  
+https://www.benricho.org/symbol/morse.html  
+GPIOピン配置  
+https://www.raspberrypi.com/documentation/computers/os.html  
+
+# ライセンス
+
+
+
 　

@@ -8,7 +8,7 @@
 echo2をするとLEDの光を利用したモールス信号でavalancheという英語を作り出します。
 
 # 必要なもの
-Raspberry Pi 4 Model B /n
+Raspberry Pi 4 Model B  
 ブレッドボード x1
 
 　

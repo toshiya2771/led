@@ -9,6 +9,9 @@ echo2をするとLEDの光を利用したモールス信号でavalancheという
 
 # 必要なもの
 Raspberry Pi 4 Model B  
-ブレッドボード x1
+ブレッドボード x1  
+ジャンパー線 x2  
+抵抗（Φ5） x1  
+LED(青色) x1  
 
 　

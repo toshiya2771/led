@@ -15,10 +15,9 @@ Raspberry Pi 4 Model B
 LED(青色) x1  
 
 # 回路
-ラズパイ4GPIOピン配置↑
-今回はLEDのアノード側はGPIO25番ピンにさし、カソード側は画像の30のGNDにさしています.
-　　
+ラズパイ4GPIOピン配置  
 ![SnapCrab_NoName_2021-12-15_15-53-3_No-00](https://user-images.githubusercontent.com/92073288/148357576-5b8ac453-5ed0-427e-a404-ce6196adcb66.png)
+今回はLEDのアノード側はGPIO25番ピンにさし、カソード側は画像の30のGNDにさしています.
 
 
 

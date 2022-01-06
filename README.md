@@ -44,7 +44,7 @@ GPIOピン配置
 https://www.raspberrypi.com/documentation/computers/os.html  
 
 # ライセンス
-
+[GNU General Public License v3.0](https://github.com/toshiya2771/led/blob/main/COPYING)
 
 
 　

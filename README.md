@@ -36,7 +36,10 @@ $ echo 2 > /dev/myled0
 このコマンドを打つとモールス信号でavalancheと表します。  
 これ以外の数字を入力した場合、何も起こりません。
 
-# 動画
+# 動画  
+
+            https://youtu.be/oFk4M1rE1HE
+          
 youtubeに動画を上げてあります  
 
 # 参考リンク
